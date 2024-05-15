@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     //mi primera chamba
+    //mi segunda Chamba
     public class CartItem
     {
         [Key]
